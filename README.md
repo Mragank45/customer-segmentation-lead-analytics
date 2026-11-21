@@ -63,7 +63,7 @@ customer-segmentation-lead-analytics/
 ## How to run
 
 ```bash
-git clone https://github.com/<your-username>/customer-segmentation-lead-analytics.git
+git clone https://github.com/Mragank45/customer-segmentation-lead-analytics.git
 cd customer-segmentation-lead-analytics
 pip install -r requirements.txt
 python main.py

@@ -1,0 +1,1501 @@
+lead_id,source,region,created_date,converted,deal_value
+L00001,Trade Show,East,2025-10-09,1,3278.32
+L00002,Website,South,2025-12-04,1,2595.95
+L00003,LinkedIn,West,2025-10-16,0,0.0
+L00004,LinkedIn,North,2025-04-28,0,0.0
+L00005,Website,East,2025-07-10,0,0.0
+L00006,Website,North,2025-06-22,0,0.0
+L00007,Trade Show,West,2025-01-24,0,0.0
+L00008,Email Campaign,North,2025-08-05,0,0.0
+L00009,Trade Show,North,2025-06-09,0,0.0
+L00010,Referral,South,2025-05-24,0,0.0
+L00011,Website,East,2025-02-10,0,0.0
+L00012,LinkedIn,North,2025-07-04,1,2850.42
+L00013,LinkedIn,South,2025-07-31,1,2269.62
+L00014,Website,South,2025-02-08,1,1819.04
+L00015,Email Campaign,East,2025-08-20,0,0.0
+L00016,Trade Show,West,2025-03-03,0,0.0
+L00017,LinkedIn,East,2025-02-22,0,0.0
+L00018,LinkedIn,East,2025-05-27,1,3255.39
+L00019,LinkedIn,South,2025-05-23,0,0.0
+L00020,Website,West,2025-11-30,0,0.0
+L00021,Referral,North,2025-01-25,0,0.0
+L00022,LinkedIn,North,2025-05-08,0,0.0
+L00023,LinkedIn,North,2025-09-26,1,2183.13
+L00024,LinkedIn,South,2025-04-02,0,0.0
+L00025,Email Campaign,South,2025-12-25,0,0.0
+L00026,Website,West,2025-09-29,0,0.0
+L00027,Website,East,2025-12-12,0,0.0
+L00028,Website,South,2025-12-13,0,0.0
+L00029,Website,North,2025-02-09,0,0.0
+L00030,Cold Call,East,2025-06-17,0,0.0
+L00031,Email Campaign,South,2025-09-29,1,1897.07
+L00032,Email Campaign,West,2025-01-04,0,0.0
+L00033,Cold Call,South,2025-06-14,0,0.0
+L00034,LinkedIn,East,2025-09-09,0,0.0
+L00035,Website,West,2025-10-17,0,0.0
+L00036,LinkedIn,South,2025-06-01,0,0.0
+L00037,Referral,South,2025-11-12,1,2478.8
+L00038,Email Campaign,East,2025-09-03,0,0.0
+L00039,LinkedIn,South,2025-01-17,0,0.0
+L00040,Website,North,2025-04-12,0,0.0
+L00041,Referral,South,2025-12-09,0,0.0
+L00042,Website,North,2025-01-01,0,0.0
+L00043,Trade Show,East,2025-02-09,1,3282.95
+L00044,Website,North,2025-05-06,0,0.0
+L00045,Website,South,2025-12-29,0,0.0
+L00046,Website,West,2025-09-15,0,0.0
+L00047,Email Campaign,East,2025-02-23,0,0.0
+L00048,LinkedIn,East,2025-05-24,1,2824.28
+L00049,Cold Call,East,2025-12-09,0,0.0
+L00050,LinkedIn,South,2025-03-21,0,0.0
+L00051,Website,East,2025-07-30,1,2583.92
+L00052,Email Campaign,North,2025-06-19,0,0.0
+L00053,Website,East,2025-10-05,0,0.0
+L00054,Website,East,2025-10-02,0,0.0
+L00055,Cold Call,West,2025-11-01,0,0.0
+L00056,Website,West,2025-02-13,0,0.0
+L00057,Website,North,2025-06-15,1,3008.3
+L00058,Email Campaign,South,2025-09-10,1,2211.83
+L00059,LinkedIn,East,2025-06-02,0,0.0
+L00060,Website,South,2025-09-01,0,0.0
+L00061,Referral,East,2025-08-21,0,0.0
+L00062,Cold Call,West,2025-05-16,0,0.0
+L00063,Website,South,2025-02-06,0,0.0
+L00064,Website,West,2025-12-21,0,0.0
+L00065,Cold Call,West,2025-10-29,0,0.0
+L00066,Cold Call,West,2025-11-23,0,0.0
+L00067,Trade Show,North,2025-04-20,0,0.0
+L00068,LinkedIn,South,2025-04-26,0,0.0
+L00069,Website,North,2025-04-29,0,0.0
+L00070,LinkedIn,North,2025-01-12,0,0.0
+L00071,Cold Call,North,2025-03-03,0,0.0
+L00072,Website,South,2025-04-23,0,0.0
+L00073,Cold Call,North,2025-12-27,0,0.0
+L00074,Website,South,2025-03-16,0,0.0
+L00075,Email Campaign,West,2025-07-05,0,0.0
+L00076,Email Campaign,West,2025-07-19,0,0.0
+L00077,LinkedIn,West,2025-05-12,0,0.0
+L00078,Trade Show,North,2025-12-02,0,0.0
+L00079,Trade Show,East,2025-02-04,1,1987.46
+L00080,Website,East,2025-11-14,0,0.0
+L00081,LinkedIn,North,2025-09-29,0,0.0
+L00082,Cold Call,West,2025-04-22,0,0.0
+L00083,Website,South,2025-10-08,0,0.0
+L00084,LinkedIn,West,2025-06-06,0,0.0
+L00085,Referral,North,2025-12-21,0,0.0
+L00086,Trade Show,East,2025-01-14,0,0.0
+L00087,LinkedIn,North,2025-01-11,0,0.0
+L00088,Email Campaign,West,2025-07-18,0,0.0
+L00089,LinkedIn,East,2025-12-06,0,0.0
+L00090,Website,North,2025-01-24,0,0.0
+L00091,Email Campaign,North,2025-10-11,0,0.0
+L00092,Website,South,2025-12-09,0,0.0
+L00093,Website,North,2025-06-27,0,0.0
+L00094,LinkedIn,North,2025-11-13,0,0.0
+L00095,Cold Call,West,2025-10-04,0,0.0
+L00096,Referral,West,2025-03-20,1,1685.38
+L00097,Website,East,2025-11-08,0,0.0
+L00098,Referral,West,2025-09-13,0,0.0
+L00099,Website,East,2025-01-05,0,0.0
+L00100,Website,North,2025-07-27,0,0.0
+L00101,LinkedIn,East,2025-08-27,0,0.0
+L00102,Website,North,2025-10-20,0,0.0
+L00103,Referral,West,2025-10-09,1,1515.78
+L00104,Cold Call,South,2025-06-23,0,0.0
+L00105,Cold Call,North,2025-04-20,0,0.0
+L00106,Referral,South,2025-03-11,0,0.0
+L00107,Referral,East,2025-02-02,1,3046.42
+L00108,Website,West,2025-08-22,0,0.0
+L00109,Trade Show,East,2025-12-17,0,0.0
+L00110,Website,North,2025-01-30,0,0.0
+L00111,Website,West,2025-09-14,0,0.0
+L00112,LinkedIn,West,2025-08-02,1,2195.66
+L00113,Website,South,2025-03-04,0,0.0
+L00114,Website,East,2025-03-19,0,0.0
+L00115,Website,West,2025-04-14,0,0.0
+L00116,Cold Call,South,2025-09-08,0,0.0
+L00117,Cold Call,North,2025-04-20,1,1557.76
+L00118,Cold Call,North,2025-10-30,0,0.0
+L00119,Email Campaign,East,2025-05-15,0,0.0
+L00120,Referral,West,2025-02-09,0,0.0
+L00121,Trade Show,East,2025-02-04,0,0.0
+L00122,Cold Call,East,2025-05-27,0,0.0
+L00123,Email Campaign,South,2025-05-29,0,0.0
+L00124,Cold Call,South,2025-09-25,0,0.0
+L00125,LinkedIn,North,2025-06-24,0,0.0
+L00126,Referral,South,2025-03-01,0,0.0
+L00127,LinkedIn,East,2025-03-19,0,0.0
+L00128,Website,West,2025-07-26,0,0.0
+L00129,LinkedIn,West,2025-05-02,0,0.0
+L00130,Website,West,2025-09-03,1,3216.04
+L00131,Website,North,2025-12-03,0,0.0
+L00132,Trade Show,West,2025-05-10,0,0.0
+L00133,Cold Call,North,2025-07-21,0,0.0
+L00134,Cold Call,East,2025-10-31,0,0.0
+L00135,Referral,West,2025-03-18,0,0.0
+L00136,Cold Call,West,2025-07-06,0,0.0
+L00137,Email Campaign,East,2025-04-22,0,0.0
+L00138,Cold Call,South,2025-08-17,0,0.0
+L00139,Cold Call,East,2025-09-29,0,0.0
+L00140,LinkedIn,East,2025-02-21,1,3116.87
+L00141,Referral,East,2025-03-10,1,1831.82
+L00142,Cold Call,South,2025-01-09,0,0.0
+L00143,Trade Show,South,2025-01-05,1,2040.43
+L00144,LinkedIn,East,2025-01-19,0,0.0
+L00145,LinkedIn,North,2025-09-15,1,2872.48
+L00146,LinkedIn,West,2025-11-26,0,0.0
+L00147,LinkedIn,North,2025-05-30,0,0.0
+L00148,Trade Show,West,2025-11-19,0,0.0
+L00149,Cold Call,North,2025-09-24,0,0.0
+L00150,LinkedIn,East,2025-10-22,0,0.0
+L00151,LinkedIn,South,2025-09-28,0,0.0
+L00152,LinkedIn,East,2025-03-14,1,2097.32
+L00153,Website,South,2025-07-11,0,0.0
+L00154,LinkedIn,West,2025-07-11,1,2120.81
+L00155,Email Campaign,North,2025-08-23,0,0.0
+L00156,Cold Call,West,2025-10-18,0,0.0
+L00157,Website,East,2025-02-11,0,0.0
+L00158,Cold Call,West,2025-09-04,0,0.0
+L00159,Cold Call,North,2025-11-01,0,0.0
+L00160,Referral,North,2025-02-12,0,0.0
+L00161,Cold Call,South,2025-06-01,0,0.0
+L00162,Cold Call,South,2025-11-23,0,0.0
+L00163,Email Campaign,West,2025-01-09,0,0.0
+L00164,Website,West,2025-02-28,0,0.0
+L00165,Website,South,2025-10-21,0,0.0
+L00166,LinkedIn,West,2025-03-04,0,0.0
+L00167,Website,North,2025-09-14,0,0.0
+L00168,LinkedIn,East,2025-11-25,1,2010.27
+L00169,Email Campaign,North,2025-07-01,0,0.0
+L00170,Website,East,2025-06-26,0,0.0
+L00171,LinkedIn,South,2025-06-06,0,0.0
+L00172,Trade Show,South,2025-05-17,0,0.0
+L00173,LinkedIn,South,2025-05-19,0,0.0
+L00174,LinkedIn,South,2025-07-22,0,0.0
+L00175,Cold Call,West,2025-11-23,0,0.0
+L00176,Website,West,2025-12-25,0,0.0
+L00177,Website,South,2025-11-13,1,2775.39
+L00178,Cold Call,South,2025-02-13,0,0.0
+L00179,LinkedIn,East,2025-04-22,0,0.0
+L00180,Referral,East,2025-10-04,0,0.0
+L00181,Website,North,2025-07-19,0,0.0
+L00182,Email Campaign,East,2025-05-03,0,0.0
+L00183,Website,West,2025-04-24,0,0.0
+L00184,Cold Call,West,2025-02-12,0,0.0
+L00185,LinkedIn,East,2025-05-02,1,2440.54
+L00186,Cold Call,South,2025-06-04,0,0.0
+L00187,Website,South,2025-06-01,1,2676.55
+L00188,Website,East,2025-07-20,0,0.0
+L00189,LinkedIn,South,2025-04-10,0,0.0
+L00190,Cold Call,North,2025-03-17,0,0.0
+L00191,Website,East,2025-11-20,0,0.0
+L00192,LinkedIn,North,2025-05-28,0,0.0
+L00193,LinkedIn,West,2025-04-03,0,0.0
+L00194,Website,South,2025-08-21,0,0.0
+L00195,Cold Call,South,2025-07-17,0,0.0
+L00196,Website,North,2025-07-30,0,0.0
+L00197,LinkedIn,North,2025-03-22,1,2665.93
+L00198,Website,West,2025-09-21,0,0.0
+L00199,LinkedIn,East,2025-03-12,0,0.0
+L00200,Referral,West,2025-11-02,0,0.0
+L00201,LinkedIn,West,2025-06-04,0,0.0
+L00202,LinkedIn,North,2025-05-30,0,0.0
+L00203,Trade Show,South,2025-05-22,1,2568.38
+L00204,LinkedIn,West,2025-06-04,0,0.0
+L00205,Email Campaign,South,2025-08-31,0,0.0
+L00206,Website,East,2025-07-01,0,0.0
+L00207,LinkedIn,East,2025-02-16,1,2754.1
+L00208,Website,East,2025-07-26,0,0.0
+L00209,LinkedIn,West,2025-04-08,0,0.0
+L00210,Cold Call,West,2025-02-09,0,0.0
+L00211,Email Campaign,East,2025-11-03,0,0.0
+L00212,Cold Call,East,2025-04-25,0,0.0
+L00213,Cold Call,South,2025-08-06,0,0.0
+L00214,Website,North,2025-03-04,0,0.0
+L00215,Website,East,2025-05-04,1,3766.92
+L00216,Email Campaign,North,2025-05-21,0,0.0
+L00217,Website,East,2025-02-18,0,0.0
+L00218,Website,South,2025-12-22,0,0.0
+L00219,Trade Show,West,2025-04-24,0,0.0
+L00220,Trade Show,West,2025-08-01,0,0.0
+L00221,Cold Call,East,2025-07-26,0,0.0
+L00222,LinkedIn,East,2025-06-06,0,0.0
+L00223,Email Campaign,South,2025-08-02,0,0.0
+L00224,Website,South,2025-07-26,0,0.0
+L00225,LinkedIn,North,2025-01-30,0,0.0
+L00226,LinkedIn,North,2025-09-02,0,0.0
+L00227,Trade Show,East,2025-02-11,0,0.0
+L00228,Trade Show,West,2025-06-08,1,2796.66
+L00229,Cold Call,North,2025-05-14,0,0.0
+L00230,Website,South,2025-06-13,0,0.0
+L00231,LinkedIn,East,2025-01-27,0,0.0
+L00232,Website,East,2025-09-14,0,0.0
+L00233,Email Campaign,East,2025-06-02,0,0.0
+L00234,Website,East,2025-01-23,1,2678.82
+L00235,Website,North,2025-01-02,0,0.0
+L00236,Cold Call,South,2025-07-17,0,0.0
+L00237,LinkedIn,South,2025-09-01,0,0.0
+L00238,Email Campaign,North,2025-07-19,0,0.0
+L00239,Website,South,2025-09-20,0,0.0
+L00240,Email Campaign,South,2025-10-04,0,0.0
+L00241,Website,West,2025-11-15,0,0.0
+L00242,Website,South,2025-12-25,0,0.0
+L00243,LinkedIn,West,2025-11-19,1,2171.43
+L00244,Website,East,2025-10-18,0,0.0
+L00245,Cold Call,East,2025-06-07,0,0.0
+L00246,Website,West,2025-07-03,0,0.0
+L00247,Website,West,2025-08-13,0,0.0
+L00248,Cold Call,North,2025-03-03,1,2255.69
+L00249,Website,South,2025-09-05,0,0.0
+L00250,Cold Call,East,2025-08-03,1,1225.5
+L00251,Cold Call,West,2025-07-09,0,0.0
+L00252,Website,North,2025-11-01,0,0.0
+L00253,Email Campaign,South,2025-09-08,0,0.0
+L00254,Referral,North,2025-12-07,0,0.0
+L00255,LinkedIn,North,2025-12-23,0,0.0
+L00256,Website,West,2025-10-29,1,2089.74
+L00257,Email Campaign,North,2025-04-19,0,0.0
+L00258,Cold Call,West,2025-03-10,0,0.0
+L00259,LinkedIn,West,2025-04-20,0,0.0
+L00260,Trade Show,West,2025-09-18,0,0.0
+L00261,Referral,North,2025-11-12,0,0.0
+L00262,Email Campaign,North,2025-11-18,1,1899.88
+L00263,Cold Call,South,2025-09-07,0,0.0
+L00264,Trade Show,East,2025-09-06,0,0.0
+L00265,Trade Show,West,2025-12-14,0,0.0
+L00266,Trade Show,South,2025-09-08,1,1723.54
+L00267,Website,North,2025-02-21,1,1928.85
+L00268,Email Campaign,West,2025-07-02,0,0.0
+L00269,Email Campaign,West,2025-05-11,0,0.0
+L00270,Cold Call,East,2025-08-21,0,0.0
+L00271,Referral,East,2025-08-21,0,0.0
+L00272,Trade Show,West,2025-04-18,1,1945.16
+L00273,Website,South,2025-04-20,0,0.0
+L00274,LinkedIn,North,2025-02-02,0,0.0
+L00275,LinkedIn,East,2025-04-18,0,0.0
+L00276,Website,South,2025-10-30,0,0.0
+L00277,Cold Call,West,2025-08-28,1,2158.11
+L00278,Website,West,2025-12-11,0,0.0
+L00279,Cold Call,South,2025-12-05,0,0.0
+L00280,Email Campaign,South,2025-11-09,0,0.0
+L00281,Referral,South,2025-03-07,1,1101.39
+L00282,Cold Call,East,2025-05-02,0,0.0
+L00283,Website,East,2025-01-21,0,0.0
+L00284,Email Campaign,East,2025-02-04,0,0.0
+L00285,Trade Show,East,2025-03-26,0,0.0
+L00286,Website,West,2025-04-13,0,0.0
+L00287,Cold Call,South,2025-01-06,0,0.0
+L00288,LinkedIn,North,2025-11-04,0,0.0
+L00289,LinkedIn,West,2025-07-12,0,0.0
+L00290,Cold Call,West,2025-08-28,0,0.0
+L00291,LinkedIn,East,2025-08-27,0,0.0
+L00292,Cold Call,South,2025-12-19,0,0.0
+L00293,Website,South,2025-02-23,0,0.0
+L00294,LinkedIn,South,2025-05-06,0,0.0
+L00295,Email Campaign,North,2025-04-23,0,0.0
+L00296,Website,East,2025-07-21,0,0.0
+L00297,Cold Call,South,2025-07-12,0,0.0
+L00298,Website,South,2025-10-16,0,0.0
+L00299,Email Campaign,East,2025-07-24,0,0.0
+L00300,Cold Call,West,2025-03-27,1,3420.83
+L00301,LinkedIn,North,2025-07-26,1,3289.81
+L00302,Website,West,2025-12-18,0,0.0
+L00303,LinkedIn,East,2025-07-31,0,0.0
+L00304,Trade Show,West,2025-08-05,1,1887.87
+L00305,LinkedIn,South,2025-03-06,0,0.0
+L00306,LinkedIn,West,2025-01-03,0,0.0
+L00307,Cold Call,East,2025-03-18,0,0.0
+L00308,LinkedIn,East,2025-01-10,0,0.0
+L00309,LinkedIn,East,2025-06-15,0,0.0
+L00310,Referral,South,2025-11-19,0,0.0
+L00311,Website,East,2025-06-13,0,0.0
+L00312,Cold Call,West,2025-08-24,0,0.0
+L00313,Email Campaign,West,2025-11-09,1,2679.91
+L00314,Trade Show,North,2025-10-06,1,2408.02
+L00315,Email Campaign,East,2025-08-26,0,0.0
+L00316,LinkedIn,West,2025-10-14,0,0.0
+L00317,Referral,East,2025-04-13,0,0.0
+L00318,Cold Call,South,2025-06-03,0,0.0
+L00319,Trade Show,South,2025-05-26,0,0.0
+L00320,Cold Call,East,2025-10-19,0,0.0
+L00321,LinkedIn,East,2025-05-30,0,0.0
+L00322,Cold Call,South,2025-12-09,1,3018.65
+L00323,Email Campaign,South,2025-03-10,0,0.0
+L00324,Trade Show,South,2025-03-04,0,0.0
+L00325,Email Campaign,North,2025-09-19,0,0.0
+L00326,LinkedIn,North,2025-10-06,0,0.0
+L00327,Referral,North,2025-09-05,0,0.0
+L00328,LinkedIn,South,2025-04-23,0,0.0
+L00329,Referral,East,2025-01-04,0,0.0
+L00330,Trade Show,South,2025-04-28,0,0.0
+L00331,LinkedIn,West,2025-06-20,0,0.0
+L00332,LinkedIn,North,2025-05-31,1,2907.4
+L00333,Referral,South,2025-12-03,1,1752.81
+L00334,Cold Call,North,2025-11-12,0,0.0
+L00335,LinkedIn,South,2025-10-10,0,0.0
+L00336,Website,East,2025-01-09,0,0.0
+L00337,Email Campaign,South,2025-02-16,0,0.0
+L00338,LinkedIn,South,2025-06-08,0,0.0
+L00339,LinkedIn,East,2025-08-15,0,0.0
+L00340,Website,West,2025-09-06,0,0.0
+L00341,Cold Call,North,2025-04-19,0,0.0
+L00342,Cold Call,North,2025-02-10,0,0.0
+L00343,Email Campaign,North,2025-04-30,0,0.0
+L00344,Website,East,2025-10-17,1,2408.51
+L00345,Trade Show,West,2025-12-27,0,0.0
+L00346,Cold Call,North,2025-12-10,0,0.0
+L00347,Referral,North,2025-08-05,0,0.0
+L00348,Website,East,2025-02-03,0,0.0
+L00349,Referral,West,2025-12-20,0,0.0
+L00350,Email Campaign,East,2025-02-25,0,0.0
+L00351,Referral,West,2025-04-08,1,2509.9
+L00352,LinkedIn,East,2025-12-22,0,0.0
+L00353,Cold Call,North,2025-07-03,0,0.0
+L00354,Email Campaign,South,2025-03-14,0,0.0
+L00355,Cold Call,West,2025-07-03,0,0.0
+L00356,Email Campaign,East,2025-01-29,0,0.0
+L00357,Website,North,2025-04-26,0,0.0
+L00358,Email Campaign,North,2025-12-14,0,0.0
+L00359,Referral,East,2025-04-19,0,0.0
+L00360,Website,South,2025-11-22,0,0.0
+L00361,Trade Show,East,2025-07-18,0,0.0
+L00362,Website,South,2025-08-28,1,3329.47
+L00363,Website,South,2025-09-14,0,0.0
+L00364,Cold Call,East,2025-07-21,0,0.0
+L00365,Referral,North,2025-01-13,0,0.0
+L00366,Website,South,2025-12-02,0,0.0
+L00367,Cold Call,South,2025-06-23,0,0.0
+L00368,Email Campaign,West,2025-08-28,0,0.0
+L00369,Email Campaign,East,2025-07-22,0,0.0
+L00370,Website,South,2025-08-29,0,0.0
+L00371,Cold Call,South,2025-05-10,0,0.0
+L00372,Email Campaign,North,2025-11-04,0,0.0
+L00373,Website,North,2025-03-23,0,0.0
+L00374,Website,South,2025-08-27,0,0.0
+L00375,Website,West,2025-07-30,0,0.0
+L00376,LinkedIn,North,2025-07-03,0,0.0
+L00377,Website,North,2025-01-09,0,0.0
+L00378,Cold Call,East,2025-05-23,0,0.0
+L00379,Trade Show,North,2025-01-18,0,0.0
+L00380,Website,West,2025-07-03,1,1032.72
+L00381,Cold Call,West,2025-09-09,0,0.0
+L00382,Website,West,2025-07-10,0,0.0
+L00383,Website,South,2025-10-04,0,0.0
+L00384,Email Campaign,South,2025-05-12,0,0.0
+L00385,LinkedIn,South,2025-04-22,0,0.0
+L00386,Trade Show,North,2025-06-13,0,0.0
+L00387,LinkedIn,East,2025-03-25,0,0.0
+L00388,Website,West,2025-10-20,0,0.0
+L00389,LinkedIn,South,2025-10-23,0,0.0
+L00390,Website,North,2025-06-02,0,0.0
+L00391,Email Campaign,East,2025-10-17,0,0.0
+L00392,Cold Call,South,2025-01-10,0,0.0
+L00393,Referral,West,2025-02-26,1,2560.47
+L00394,LinkedIn,West,2025-04-14,1,2763.39
+L00395,Cold Call,West,2025-05-22,0,0.0
+L00396,Email Campaign,South,2025-03-26,0,0.0
+L00397,Website,West,2025-07-06,0,0.0
+L00398,Website,North,2025-10-17,0,0.0
+L00399,Website,South,2025-06-16,1,2503.95
+L00400,LinkedIn,South,2025-06-13,0,0.0
+L00401,LinkedIn,West,2025-01-22,0,0.0
+L00402,Website,East,2025-04-13,0,0.0
+L00403,LinkedIn,South,2025-10-22,0,0.0
+L00404,LinkedIn,North,2025-10-23,0,0.0
+L00405,Website,West,2025-02-08,0,0.0
+L00406,Trade Show,East,2025-01-08,0,0.0
+L00407,Cold Call,West,2025-10-31,0,0.0
+L00408,LinkedIn,South,2025-03-05,0,0.0
+L00409,LinkedIn,North,2025-07-29,0,0.0
+L00410,Referral,South,2025-10-29,0,0.0
+L00411,Email Campaign,East,2025-10-15,0,0.0
+L00412,Cold Call,North,2025-07-20,0,0.0
+L00413,LinkedIn,North,2025-05-18,0,0.0
+L00414,Trade Show,West,2025-10-10,0,0.0
+L00415,Email Campaign,East,2025-09-11,0,0.0
+L00416,Email Campaign,South,2025-11-02,0,0.0
+L00417,Website,East,2025-07-07,0,0.0
+L00418,Website,East,2025-12-10,0,0.0
+L00419,Cold Call,North,2025-10-08,0,0.0
+L00420,LinkedIn,South,2025-01-24,0,0.0
+L00421,Cold Call,South,2025-04-18,0,0.0
+L00422,Email Campaign,North,2025-10-19,0,0.0
+L00423,Referral,North,2025-02-12,0,0.0
+L00424,Referral,South,2025-09-16,1,2095.15
+L00425,LinkedIn,East,2025-05-05,0,0.0
+L00426,Referral,East,2025-03-17,0,0.0
+L00427,Cold Call,West,2025-07-17,0,0.0
+L00428,Cold Call,South,2025-12-07,0,0.0
+L00429,LinkedIn,East,2025-11-24,0,0.0
+L00430,Cold Call,West,2025-05-28,0,0.0
+L00431,LinkedIn,East,2025-01-02,0,0.0
+L00432,Cold Call,West,2025-11-20,0,0.0
+L00433,Website,North,2025-11-24,0,0.0
+L00434,Cold Call,West,2025-08-09,1,2775.14
+L00435,Cold Call,East,2025-08-18,0,0.0
+L00436,Referral,East,2025-07-12,1,2723.84
+L00437,Cold Call,North,2025-01-05,0,0.0
+L00438,Email Campaign,East,2025-02-28,0,0.0
+L00439,Website,West,2025-02-22,0,0.0
+L00440,Cold Call,East,2025-11-30,0,0.0
+L00441,Trade Show,North,2025-01-19,0,0.0
+L00442,Email Campaign,South,2025-07-23,0,0.0
+L00443,LinkedIn,East,2025-05-13,0,0.0
+L00444,Cold Call,West,2025-01-03,0,0.0
+L00445,Trade Show,South,2025-12-02,1,1825.76
+L00446,Cold Call,West,2025-01-07,0,0.0
+L00447,Website,West,2025-11-09,0,0.0
+L00448,Website,South,2025-10-11,0,0.0
+L00449,Email Campaign,North,2025-10-17,0,0.0
+L00450,LinkedIn,West,2025-03-01,0,0.0
+L00451,Website,East,2025-11-18,0,0.0
+L00452,Referral,West,2025-08-07,0,0.0
+L00453,Email Campaign,West,2025-05-27,0,0.0
+L00454,LinkedIn,South,2025-09-06,0,0.0
+L00455,Email Campaign,North,2025-05-05,0,0.0
+L00456,Cold Call,West,2025-04-12,0,0.0
+L00457,Trade Show,East,2025-04-16,0,0.0
+L00458,Email Campaign,North,2025-07-27,0,0.0
+L00459,Referral,East,2025-08-08,0,0.0
+L00460,Cold Call,North,2025-03-29,0,0.0
+L00461,Website,South,2025-03-31,0,0.0
+L00462,Trade Show,South,2025-12-12,0,0.0
+L00463,Referral,South,2025-07-07,0,0.0
+L00464,Cold Call,East,2025-11-10,0,0.0
+L00465,Email Campaign,West,2025-05-01,0,0.0
+L00466,Website,South,2025-04-16,0,0.0
+L00467,Email Campaign,East,2025-04-14,1,2297.26
+L00468,Website,West,2025-07-13,1,1377.33
+L00469,LinkedIn,East,2025-10-12,1,2462.15
+L00470,LinkedIn,South,2025-07-02,1,1750.71
+L00471,LinkedIn,East,2025-04-18,0,0.0
+L00472,Cold Call,South,2025-12-17,0,0.0
+L00473,Trade Show,South,2025-07-28,0,0.0
+L00474,Referral,East,2025-05-24,0,0.0
+L00475,Cold Call,South,2025-01-04,0,0.0
+L00476,Email Campaign,North,2025-07-25,0,0.0
+L00477,Email Campaign,West,2025-08-15,0,0.0
+L00478,Website,East,2025-12-05,0,0.0
+L00479,Trade Show,North,2025-03-26,0,0.0
+L00480,Website,South,2025-03-01,0,0.0
+L00481,Cold Call,South,2025-12-31,0,0.0
+L00482,Cold Call,West,2025-07-20,0,0.0
+L00483,Email Campaign,West,2025-01-10,0,0.0
+L00484,Website,East,2025-02-08,0,0.0
+L00485,Website,South,2025-06-23,0,0.0
+L00486,Email Campaign,North,2025-08-14,0,0.0
+L00487,Website,North,2025-03-30,1,2885.28
+L00488,LinkedIn,North,2025-05-14,0,0.0
+L00489,Cold Call,West,2025-09-26,0,0.0
+L00490,Cold Call,North,2025-12-20,0,0.0
+L00491,Website,East,2025-06-29,0,0.0
+L00492,Referral,West,2025-06-01,1,3059.24
+L00493,Trade Show,South,2025-05-12,0,0.0
+L00494,LinkedIn,East,2025-02-19,0,0.0
+L00495,Website,West,2025-01-20,1,2795.94
+L00496,Website,South,2025-11-01,0,0.0
+L00497,Referral,South,2025-01-14,1,1775.48
+L00498,Trade Show,North,2025-10-27,0,0.0
+L00499,Referral,South,2025-04-01,0,0.0
+L00500,Website,West,2025-09-11,1,1522.15
+L00501,LinkedIn,East,2025-12-14,0,0.0
+L00502,Website,North,2025-10-01,0,0.0
+L00503,Referral,East,2025-09-24,0,0.0
+L00504,Trade Show,East,2025-04-07,0,0.0
+L00505,Cold Call,North,2025-08-07,0,0.0
+L00506,Website,West,2025-08-23,0,0.0
+L00507,LinkedIn,North,2025-06-05,0,0.0
+L00508,Website,South,2025-01-14,0,0.0
+L00509,Website,South,2025-11-30,0,0.0
+L00510,Cold Call,East,2025-03-13,0,0.0
+L00511,LinkedIn,West,2025-12-22,0,0.0
+L00512,Cold Call,North,2025-12-07,0,0.0
+L00513,Email Campaign,South,2025-01-07,0,0.0
+L00514,Website,South,2025-09-27,0,0.0
+L00515,Trade Show,West,2025-08-20,0,0.0
+L00516,LinkedIn,West,2025-03-26,0,0.0
+L00517,Referral,South,2025-10-24,0,0.0
+L00518,Email Campaign,East,2025-02-10,0,0.0
+L00519,Website,West,2025-04-01,0,0.0
+L00520,Cold Call,West,2025-12-13,0,0.0
+L00521,Cold Call,East,2025-09-29,0,0.0
+L00522,Referral,East,2025-02-10,1,1741.33
+L00523,Email Campaign,West,2025-02-22,0,0.0
+L00524,Website,North,2025-04-04,1,2284.48
+L00525,Email Campaign,South,2025-01-26,0,0.0
+L00526,Website,East,2025-03-08,1,2593.03
+L00527,Website,North,2025-07-28,1,2643.93
+L00528,LinkedIn,East,2025-01-03,1,2166.01
+L00529,Email Campaign,West,2025-04-15,0,0.0
+L00530,Website,North,2025-04-25,0,0.0
+L00531,Email Campaign,West,2025-12-21,0,0.0
+L00532,Website,South,2025-12-22,0,0.0
+L00533,LinkedIn,West,2025-11-05,0,0.0
+L00534,LinkedIn,East,2025-05-05,1,1864.36
+L00535,Website,North,2025-07-12,1,3134.23
+L00536,Trade Show,East,2025-07-04,0,0.0
+L00537,LinkedIn,North,2025-11-10,0,0.0
+L00538,Cold Call,North,2025-09-30,0,0.0
+L00539,Cold Call,West,2025-11-27,0,0.0
+L00540,LinkedIn,West,2025-07-21,0,0.0
+L00541,Cold Call,North,2025-12-02,0,0.0
+L00542,Email Campaign,South,2025-09-29,0,0.0
+L00543,Cold Call,North,2025-09-27,0,0.0
+L00544,LinkedIn,South,2025-08-30,0,0.0
+L00545,Cold Call,West,2025-05-03,0,0.0
+L00546,Cold Call,North,2025-08-11,0,0.0
+L00547,LinkedIn,East,2025-05-11,1,2213.22
+L00548,Cold Call,West,2025-08-26,0,0.0
+L00549,LinkedIn,West,2025-04-03,1,1945.44
+L00550,Email Campaign,South,2025-10-19,0,0.0
+L00551,Trade Show,East,2025-07-28,1,1041.19
+L00552,Trade Show,South,2025-09-17,1,2360.0
+L00553,Email Campaign,North,2025-03-22,0,0.0
+L00554,Cold Call,North,2025-10-16,0,0.0
+L00555,Cold Call,East,2025-10-20,0,0.0
+L00556,Website,East,2025-02-23,0,0.0
+L00557,LinkedIn,East,2025-05-08,0,0.0
+L00558,Referral,West,2025-09-05,0,0.0
+L00559,Website,East,2025-11-15,0,0.0
+L00560,Trade Show,South,2025-09-27,0,0.0
+L00561,Email Campaign,South,2025-06-22,0,0.0
+L00562,LinkedIn,West,2025-04-20,1,1822.85
+L00563,Referral,West,2025-11-29,0,0.0
+L00564,Cold Call,North,2025-11-16,0,0.0
+L00565,LinkedIn,West,2025-11-24,0,0.0
+L00566,Email Campaign,North,2025-04-22,0,0.0
+L00567,Trade Show,West,2025-06-09,0,0.0
+L00568,Referral,East,2025-03-30,0,0.0
+L00569,Website,East,2025-12-15,0,0.0
+L00570,Referral,East,2025-11-13,1,2343.68
+L00571,Website,East,2025-03-05,0,0.0
+L00572,LinkedIn,South,2025-04-01,0,0.0
+L00573,Website,West,2025-07-21,0,0.0
+L00574,Website,East,2025-06-01,0,0.0
+L00575,Referral,East,2025-06-17,0,0.0
+L00576,Website,South,2025-05-15,0,0.0
+L00577,Cold Call,North,2025-09-03,0,0.0
+L00578,Website,East,2025-11-24,0,0.0
+L00579,Email Campaign,South,2025-12-01,0,0.0
+L00580,Website,East,2025-06-16,0,0.0
+L00581,Website,South,2025-10-30,0,0.0
+L00582,Website,West,2025-09-11,0,0.0
+L00583,Cold Call,East,2025-03-13,0,0.0
+L00584,Referral,South,2025-10-17,0,0.0
+L00585,LinkedIn,East,2025-05-08,0,0.0
+L00586,Website,East,2025-08-18,0,0.0
+L00587,Trade Show,East,2025-09-21,1,2185.02
+L00588,Website,East,2025-12-11,0,0.0
+L00589,LinkedIn,West,2025-12-13,1,2370.63
+L00590,Email Campaign,South,2025-10-20,1,3003.28
+L00591,Website,South,2025-07-04,0,0.0
+L00592,Referral,South,2025-05-27,0,0.0
+L00593,Email Campaign,East,2025-06-11,0,0.0
+L00594,Referral,West,2025-12-14,0,0.0
+L00595,Website,East,2025-03-16,0,0.0
+L00596,LinkedIn,North,2025-07-11,0,0.0
+L00597,Website,West,2025-09-06,0,0.0
+L00598,Trade Show,West,2025-01-09,0,0.0
+L00599,Cold Call,South,2025-08-20,0,0.0
+L00600,Cold Call,North,2025-04-05,0,0.0
+L00601,Website,South,2025-04-13,0,0.0
+L00602,Cold Call,West,2025-08-15,0,0.0
+L00603,Cold Call,East,2025-01-04,0,0.0
+L00604,Website,North,2025-02-27,0,0.0
+L00605,Email Campaign,North,2025-06-16,0,0.0
+L00606,Cold Call,West,2025-08-02,0,0.0
+L00607,Email Campaign,South,2025-02-09,0,0.0
+L00608,Referral,East,2025-05-12,1,2438.05
+L00609,Website,South,2025-04-23,0,0.0
+L00610,Cold Call,North,2025-07-15,0,0.0
+L00611,Email Campaign,South,2025-04-20,0,0.0
+L00612,LinkedIn,East,2025-01-01,0,0.0
+L00613,Website,South,2025-07-13,0,0.0
+L00614,Email Campaign,East,2025-11-06,0,0.0
+L00615,Website,South,2025-08-02,0,0.0
+L00616,Referral,South,2025-05-13,1,2035.52
+L00617,Cold Call,South,2025-06-26,0,0.0
+L00618,Website,South,2025-02-21,0,0.0
+L00619,Website,South,2025-03-28,0,0.0
+L00620,Website,East,2025-06-09,0,0.0
+L00621,Trade Show,South,2025-08-05,1,2925.24
+L00622,Referral,East,2025-06-27,0,0.0
+L00623,Cold Call,South,2025-12-18,0,0.0
+L00624,Trade Show,South,2025-08-21,0,0.0
+L00625,Cold Call,West,2025-01-09,0,0.0
+L00626,LinkedIn,West,2025-07-11,0,0.0
+L00627,LinkedIn,South,2025-08-01,0,0.0
+L00628,LinkedIn,South,2025-01-16,0,0.0
+L00629,Cold Call,East,2025-05-21,0,0.0
+L00630,Trade Show,North,2025-11-15,1,2840.73
+L00631,Email Campaign,South,2025-05-11,0,0.0
+L00632,LinkedIn,East,2025-06-16,0,0.0
+L00633,Referral,East,2025-03-22,0,0.0
+L00634,Email Campaign,North,2025-01-29,0,0.0
+L00635,Website,North,2025-04-27,0,0.0
+L00636,Email Campaign,South,2025-10-10,0,0.0
+L00637,Referral,North,2025-12-25,1,2939.99
+L00638,Cold Call,East,2025-08-29,0,0.0
+L00639,Email Campaign,West,2025-10-31,0,0.0
+L00640,LinkedIn,South,2025-08-26,0,0.0
+L00641,Website,South,2025-08-29,0,0.0
+L00642,Email Campaign,North,2025-06-05,0,0.0
+L00643,LinkedIn,North,2025-01-23,0,0.0
+L00644,Referral,East,2025-05-30,0,0.0
+L00645,LinkedIn,South,2025-11-12,0,0.0
+L00646,LinkedIn,East,2025-07-15,0,0.0
+L00647,Cold Call,East,2025-10-06,0,0.0
+L00648,Website,West,2025-01-19,1,2940.6
+L00649,LinkedIn,North,2025-03-15,0,0.0
+L00650,Email Campaign,East,2025-04-20,0,0.0
+L00651,Website,West,2025-05-12,0,0.0
+L00652,LinkedIn,South,2025-12-27,0,0.0
+L00653,Cold Call,North,2025-06-18,0,0.0
+L00654,Email Campaign,South,2025-08-30,1,2194.49
+L00655,Cold Call,West,2025-08-24,0,0.0
+L00656,Email Campaign,West,2025-06-02,0,0.0
+L00657,Website,South,2025-12-19,1,1333.25
+L00658,LinkedIn,North,2025-03-23,1,3864.51
+L00659,Trade Show,South,2025-01-13,0,0.0
+L00660,Email Campaign,North,2025-09-30,0,0.0
+L00661,Cold Call,East,2025-08-27,0,0.0
+L00662,LinkedIn,West,2025-04-06,0,0.0
+L00663,LinkedIn,North,2025-11-13,0,0.0
+L00664,Website,East,2025-03-01,0,0.0
+L00665,Email Campaign,West,2025-04-02,0,0.0
+L00666,Email Campaign,East,2025-02-26,1,2544.28
+L00667,LinkedIn,West,2025-03-09,0,0.0
+L00668,Referral,North,2025-09-24,0,0.0
+L00669,Referral,East,2025-09-14,0,0.0
+L00670,Website,North,2025-08-23,0,0.0
+L00671,Cold Call,West,2025-11-11,0,0.0
+L00672,Cold Call,South,2025-01-26,0,0.0
+L00673,Website,North,2025-08-15,1,2527.18
+L00674,Cold Call,East,2025-02-11,0,0.0
+L00675,Trade Show,East,2025-12-15,0,0.0
+L00676,Website,South,2025-08-20,0,0.0
+L00677,LinkedIn,South,2025-10-05,0,0.0
+L00678,LinkedIn,North,2025-07-28,1,2388.7
+L00679,Website,West,2025-05-21,0,0.0
+L00680,LinkedIn,North,2025-09-08,0,0.0
+L00681,Cold Call,West,2025-11-02,0,0.0
+L00682,Website,East,2025-03-06,0,0.0
+L00683,Website,East,2025-11-15,0,0.0
+L00684,Email Campaign,East,2025-09-23,0,0.0
+L00685,Referral,West,2025-02-01,0,0.0
+L00686,Cold Call,North,2025-12-08,0,0.0
+L00687,Cold Call,West,2025-03-07,1,2084.68
+L00688,Email Campaign,North,2025-08-08,0,0.0
+L00689,Cold Call,West,2025-02-17,0,0.0
+L00690,Email Campaign,South,2025-03-13,1,3400.3
+L00691,Cold Call,West,2025-08-23,0,0.0
+L00692,LinkedIn,North,2025-09-06,1,3123.01
+L00693,LinkedIn,South,2025-09-08,0,0.0
+L00694,LinkedIn,East,2025-05-06,0,0.0
+L00695,LinkedIn,West,2025-10-27,0,0.0
+L00696,Website,North,2025-01-18,0,0.0
+L00697,LinkedIn,North,2025-11-08,0,0.0
+L00698,LinkedIn,East,2025-04-21,0,0.0
+L00699,Website,North,2025-08-15,0,0.0
+L00700,Referral,West,2025-11-27,1,1921.53
+L00701,Email Campaign,North,2025-04-04,0,0.0
+L00702,Cold Call,West,2025-05-31,0,0.0
+L00703,Email Campaign,East,2025-10-30,0,0.0
+L00704,LinkedIn,West,2025-11-12,0,0.0
+L00705,Email Campaign,North,2025-03-27,0,0.0
+L00706,Email Campaign,South,2025-07-05,0,0.0
+L00707,Website,South,2025-05-02,1,2885.54
+L00708,Trade Show,North,2025-07-08,0,0.0
+L00709,Website,North,2025-05-19,1,1582.46
+L00710,Cold Call,South,2025-01-02,0,0.0
+L00711,Email Campaign,East,2025-12-04,0,0.0
+L00712,Referral,East,2025-08-21,0,0.0
+L00713,Cold Call,North,2025-06-18,0,0.0
+L00714,LinkedIn,North,2025-02-09,0,0.0
+L00715,Website,East,2025-01-27,0,0.0
+L00716,Website,South,2025-06-24,0,0.0
+L00717,Website,West,2025-08-25,0,0.0
+L00718,Website,South,2025-04-06,0,0.0
+L00719,Cold Call,South,2025-09-29,0,0.0
+L00720,LinkedIn,North,2025-05-24,0,0.0
+L00721,LinkedIn,South,2025-01-05,0,0.0
+L00722,Cold Call,East,2025-07-16,0,0.0
+L00723,Website,South,2025-03-08,0,0.0
+L00724,Referral,East,2025-01-06,0,0.0
+L00725,Email Campaign,North,2025-02-17,0,0.0
+L00726,Trade Show,East,2025-04-14,1,2688.12
+L00727,LinkedIn,South,2025-07-07,0,0.0
+L00728,Website,West,2025-12-28,0,0.0
+L00729,Email Campaign,South,2025-03-21,0,0.0
+L00730,Email Campaign,North,2025-01-21,0,0.0
+L00731,LinkedIn,East,2025-03-11,1,3432.74
+L00732,Website,North,2025-04-27,0,0.0
+L00733,Website,West,2025-03-16,0,0.0
+L00734,Cold Call,South,2025-04-28,1,2394.94
+L00735,Trade Show,West,2025-12-20,0,0.0
+L00736,Cold Call,East,2025-05-19,0,0.0
+L00737,Referral,South,2025-08-20,0,0.0
+L00738,Cold Call,East,2025-09-07,0,0.0
+L00739,Email Campaign,North,2025-02-17,0,0.0
+L00740,LinkedIn,North,2025-04-01,0,0.0
+L00741,Email Campaign,West,2025-06-01,0,0.0
+L00742,LinkedIn,West,2025-06-17,1,2226.0
+L00743,Referral,West,2025-01-05,0,0.0
+L00744,Cold Call,South,2025-08-24,0,0.0
+L00745,LinkedIn,South,2025-04-20,0,0.0
+L00746,Trade Show,South,2025-04-28,0,0.0
+L00747,LinkedIn,East,2025-08-09,0,0.0
+L00748,LinkedIn,East,2025-12-13,1,2849.05
+L00749,LinkedIn,West,2025-11-12,1,2969.31
+L00750,LinkedIn,West,2025-12-24,0,0.0
+L00751,LinkedIn,South,2025-05-31,0,0.0
+L00752,Cold Call,East,2025-02-13,0,0.0
+L00753,LinkedIn,East,2025-03-20,0,0.0
+L00754,LinkedIn,West,2025-05-06,0,0.0
+L00755,Cold Call,South,2025-04-20,0,0.0
+L00756,Website,North,2025-03-17,0,0.0
+L00757,Cold Call,South,2025-02-25,0,0.0
+L00758,LinkedIn,East,2025-03-10,0,0.0
+L00759,LinkedIn,West,2025-08-29,0,0.0
+L00760,Cold Call,West,2025-06-29,0,0.0
+L00761,Email Campaign,North,2025-01-14,0,0.0
+L00762,Email Campaign,East,2025-07-25,0,0.0
+L00763,LinkedIn,North,2025-11-04,0,0.0
+L00764,Referral,South,2025-06-05,1,2630.39
+L00765,Cold Call,West,2025-04-27,1,3165.9
+L00766,Cold Call,West,2025-04-10,1,2663.16
+L00767,Cold Call,North,2025-05-19,0,0.0
+L00768,Cold Call,North,2025-04-12,0,0.0
+L00769,Email Campaign,East,2025-12-04,1,2599.61
+L00770,Website,South,2025-12-29,0,0.0
+L00771,Cold Call,South,2025-05-06,1,3278.71
+L00772,Website,West,2025-12-04,0,0.0
+L00773,LinkedIn,West,2025-11-08,1,2578.37
+L00774,Cold Call,West,2025-01-28,0,0.0
+L00775,LinkedIn,West,2025-06-29,0,0.0
+L00776,LinkedIn,West,2025-08-28,0,0.0
+L00777,Email Campaign,East,2025-06-04,0,0.0
+L00778,Email Campaign,West,2025-06-16,0,0.0
+L00779,LinkedIn,East,2025-06-30,0,0.0
+L00780,Trade Show,North,2025-09-09,1,2682.13
+L00781,LinkedIn,West,2025-04-18,0,0.0
+L00782,Email Campaign,West,2025-08-06,0,0.0
+L00783,Website,South,2025-03-30,0,0.0
+L00784,Referral,South,2025-11-21,0,0.0
+L00785,Referral,East,2025-01-31,0,0.0
+L00786,Website,East,2025-01-25,1,3140.09
+L00787,LinkedIn,East,2025-01-14,0,0.0
+L00788,Website,South,2025-05-08,1,2264.91
+L00789,Cold Call,West,2025-08-10,1,2313.53
+L00790,Website,West,2025-12-26,1,3425.49
+L00791,Website,West,2025-06-15,0,0.0
+L00792,Trade Show,East,2025-03-08,0,0.0
+L00793,Cold Call,North,2025-05-15,0,0.0
+L00794,Trade Show,West,2025-02-16,0,0.0
+L00795,LinkedIn,North,2025-06-22,0,0.0
+L00796,Website,North,2025-09-24,0,0.0
+L00797,Cold Call,South,2025-01-13,0,0.0
+L00798,Cold Call,North,2025-10-11,1,2948.15
+L00799,Website,East,2025-03-25,0,0.0
+L00800,Email Campaign,South,2025-09-03,0,0.0
+L00801,Cold Call,North,2025-10-25,0,0.0
+L00802,Cold Call,North,2025-10-11,0,0.0
+L00803,LinkedIn,North,2025-09-02,0,0.0
+L00804,Cold Call,East,2025-09-11,0,0.0
+L00805,Referral,West,2025-03-10,0,0.0
+L00806,Trade Show,South,2025-02-19,0,0.0
+L00807,LinkedIn,North,2025-05-20,0,0.0
+L00808,Website,East,2025-08-11,1,2276.11
+L00809,Website,West,2025-08-14,1,2461.01
+L00810,Cold Call,North,2025-10-11,0,0.0
+L00811,Trade Show,West,2025-04-23,0,0.0
+L00812,Email Campaign,North,2025-11-12,0,0.0
+L00813,Cold Call,South,2025-06-13,0,0.0
+L00814,Trade Show,East,2025-03-31,1,3194.8
+L00815,Cold Call,North,2025-09-26,0,0.0
+L00816,Referral,South,2025-02-16,0,0.0
+L00817,Cold Call,North,2025-05-28,0,0.0
+L00818,Website,North,2025-10-13,0,0.0
+L00819,Website,West,2025-10-09,0,0.0
+L00820,LinkedIn,North,2025-04-04,0,0.0
+L00821,Website,North,2025-03-02,0,0.0
+L00822,Trade Show,North,2025-01-12,1,2993.16
+L00823,Trade Show,North,2025-02-02,0,0.0
+L00824,LinkedIn,East,2025-10-29,0,0.0
+L00825,Cold Call,West,2025-10-14,0,0.0
+L00826,LinkedIn,North,2025-07-04,0,0.0
+L00827,Website,East,2025-07-28,1,3028.1
+L00828,Referral,South,2025-04-30,1,2480.79
+L00829,Website,North,2025-03-12,0,0.0
+L00830,Referral,East,2025-01-05,0,0.0
+L00831,Website,North,2025-09-03,0,0.0
+L00832,Website,East,2025-01-13,0,0.0
+L00833,Website,East,2025-02-08,1,2811.88
+L00834,Trade Show,East,2025-10-17,0,0.0
+L00835,Website,North,2025-08-01,1,2197.6
+L00836,Referral,South,2025-06-28,0,0.0
+L00837,LinkedIn,East,2025-03-21,1,1960.19
+L00838,LinkedIn,West,2025-02-24,0,0.0
+L00839,LinkedIn,North,2025-06-20,1,2315.54
+L00840,Website,South,2025-05-11,0,0.0
+L00841,Cold Call,West,2025-07-14,0,0.0
+L00842,Cold Call,South,2025-03-02,0,0.0
+L00843,Cold Call,South,2025-03-26,1,1990.88
+L00844,Cold Call,West,2025-02-11,0,0.0
+L00845,LinkedIn,West,2025-06-04,0,0.0
+L00846,LinkedIn,East,2025-04-11,0,0.0
+L00847,Website,East,2025-03-23,0,0.0
+L00848,LinkedIn,East,2025-07-20,0,0.0
+L00849,Website,South,2025-07-01,0,0.0
+L00850,Referral,West,2025-03-18,0,0.0
+L00851,Cold Call,North,2025-09-13,0,0.0
+L00852,Website,North,2025-05-06,0,0.0
+L00853,Website,East,2025-05-05,0,0.0
+L00854,Cold Call,West,2025-06-24,0,0.0
+L00855,LinkedIn,West,2025-02-20,0,0.0
+L00856,Email Campaign,East,2025-06-03,0,0.0
+L00857,Trade Show,South,2025-08-01,0,0.0
+L00858,Trade Show,South,2025-02-16,0,0.0
+L00859,LinkedIn,South,2025-07-26,0,0.0
+L00860,Referral,South,2025-01-15,0,0.0
+L00861,Cold Call,South,2025-08-09,1,2181.49
+L00862,Cold Call,North,2025-01-13,0,0.0
+L00863,Cold Call,South,2025-03-05,0,0.0
+L00864,Referral,West,2025-05-08,0,0.0
+L00865,Website,East,2025-08-13,1,1656.59
+L00866,Website,North,2025-09-20,0,0.0
+L00867,Website,South,2025-06-21,0,0.0
+L00868,Website,South,2025-02-17,0,0.0
+L00869,Trade Show,South,2025-05-22,0,0.0
+L00870,Website,East,2025-10-15,0,0.0
+L00871,Cold Call,West,2025-02-02,0,0.0
+L00872,Trade Show,East,2025-09-19,0,0.0
+L00873,LinkedIn,South,2025-05-21,0,0.0
+L00874,LinkedIn,North,2025-01-02,0,0.0
+L00875,Cold Call,North,2025-09-11,0,0.0
+L00876,Referral,West,2025-01-10,0,0.0
+L00877,LinkedIn,East,2025-05-15,0,0.0
+L00878,Email Campaign,East,2025-03-13,0,0.0
+L00879,Cold Call,East,2025-08-02,0,0.0
+L00880,Email Campaign,West,2025-01-21,0,0.0
+L00881,Trade Show,West,2025-02-03,0,0.0
+L00882,LinkedIn,North,2025-07-13,0,0.0
+L00883,Cold Call,South,2025-12-29,0,0.0
+L00884,Cold Call,North,2025-01-15,0,0.0
+L00885,Cold Call,South,2025-06-18,0,0.0
+L00886,Cold Call,East,2025-10-20,0,0.0
+L00887,Cold Call,North,2025-04-17,0,0.0
+L00888,Email Campaign,North,2025-06-29,0,0.0
+L00889,Referral,South,2025-11-03,0,0.0
+L00890,Cold Call,East,2025-09-23,0,0.0
+L00891,Referral,East,2025-04-18,1,1610.07
+L00892,Cold Call,North,2025-10-02,0,0.0
+L00893,Email Campaign,North,2025-09-04,0,0.0
+L00894,Email Campaign,West,2025-07-04,0,0.0
+L00895,LinkedIn,East,2025-06-11,0,0.0
+L00896,LinkedIn,West,2025-12-04,1,2370.47
+L00897,Referral,West,2025-11-16,1,2310.12
+L00898,Website,West,2025-12-28,0,0.0
+L00899,Referral,East,2025-09-04,0,0.0
+L00900,Trade Show,West,2025-05-12,1,2321.73
+L00901,Referral,South,2025-02-10,0,0.0
+L00902,Trade Show,West,2025-02-15,0,0.0
+L00903,Website,South,2025-12-14,1,2830.98
+L00904,Cold Call,South,2025-05-13,0,0.0
+L00905,Cold Call,East,2025-02-10,0,0.0
+L00906,Cold Call,South,2025-03-23,0,0.0
+L00907,Cold Call,North,2025-01-08,0,0.0
+L00908,Cold Call,West,2025-07-13,0,0.0
+L00909,Trade Show,South,2025-08-04,0,0.0
+L00910,Cold Call,West,2025-05-19,0,0.0
+L00911,Website,South,2025-09-29,0,0.0
+L00912,Referral,West,2025-06-25,0,0.0
+L00913,Cold Call,East,2025-12-17,0,0.0
+L00914,LinkedIn,West,2025-10-06,0,0.0
+L00915,LinkedIn,West,2025-01-28,0,0.0
+L00916,Cold Call,North,2025-04-11,0,0.0
+L00917,LinkedIn,West,2025-10-03,0,0.0
+L00918,Email Campaign,West,2025-07-16,1,2242.47
+L00919,Cold Call,East,2025-10-02,0,0.0
+L00920,Cold Call,West,2025-05-03,0,0.0
+L00921,Cold Call,West,2025-01-14,0,0.0
+L00922,Email Campaign,East,2025-10-14,0,0.0
+L00923,Cold Call,South,2025-10-14,1,1643.11
+L00924,Trade Show,West,2025-08-22,0,0.0
+L00925,Website,North,2025-05-28,0,0.0
+L00926,Cold Call,East,2025-01-04,0,0.0
+L00927,Cold Call,West,2025-09-23,0,0.0
+L00928,LinkedIn,West,2025-08-29,0,0.0
+L00929,Referral,South,2025-09-01,0,0.0
+L00930,Cold Call,North,2025-03-04,0,0.0
+L00931,LinkedIn,South,2025-09-24,0,0.0
+L00932,Trade Show,West,2025-09-22,0,0.0
+L00933,LinkedIn,East,2025-11-09,0,0.0
+L00934,Website,North,2025-07-27,0,0.0
+L00935,Cold Call,North,2025-09-25,0,0.0
+L00936,LinkedIn,South,2025-05-27,0,0.0
+L00937,Website,South,2025-09-12,1,2305.61
+L00938,Cold Call,North,2025-09-11,1,3234.55
+L00939,LinkedIn,South,2025-10-12,0,0.0
+L00940,Website,South,2025-11-09,0,0.0
+L00941,Cold Call,North,2025-01-02,0,0.0
+L00942,Cold Call,North,2025-10-12,0,0.0
+L00943,Email Campaign,East,2025-10-17,0,0.0
+L00944,LinkedIn,West,2025-07-19,1,2376.94
+L00945,Website,West,2025-07-09,0,0.0
+L00946,Trade Show,East,2025-09-21,0,0.0
+L00947,Cold Call,North,2025-06-16,0,0.0
+L00948,Website,West,2025-06-01,1,2563.09
+L00949,Email Campaign,West,2025-10-21,0,0.0
+L00950,Website,South,2025-10-15,0,0.0
+L00951,Email Campaign,South,2025-03-17,0,0.0
+L00952,Cold Call,North,2025-10-30,0,0.0
+L00953,Trade Show,West,2025-04-30,0,0.0
+L00954,Trade Show,West,2025-02-20,1,1902.46
+L00955,Referral,North,2025-11-17,0,0.0
+L00956,Email Campaign,East,2025-03-28,0,0.0
+L00957,Referral,South,2025-03-16,0,0.0
+L00958,Cold Call,East,2025-04-09,0,0.0
+L00959,Cold Call,North,2025-06-29,0,0.0
+L00960,Website,West,2025-03-02,0,0.0
+L00961,Website,South,2025-02-28,0,0.0
+L00962,Website,West,2025-05-24,0,0.0
+L00963,Website,North,2025-03-21,0,0.0
+L00964,Referral,East,2025-03-12,1,1760.17
+L00965,Trade Show,South,2025-11-29,0,0.0
+L00966,LinkedIn,West,2025-08-06,1,2015.04
+L00967,Email Campaign,East,2025-01-06,0,0.0
+L00968,Email Campaign,East,2025-02-07,0,0.0
+L00969,Cold Call,North,2025-10-25,0,0.0
+L00970,LinkedIn,East,2025-04-09,0,0.0
+L00971,Email Campaign,North,2025-02-25,0,0.0
+L00972,Cold Call,South,2025-08-31,0,0.0
+L00973,Cold Call,North,2025-11-02,0,0.0
+L00974,Trade Show,North,2025-05-26,0,0.0
+L00975,Cold Call,East,2025-09-29,0,0.0
+L00976,LinkedIn,North,2025-06-03,1,3234.2
+L00977,Email Campaign,East,2025-02-09,0,0.0
+L00978,LinkedIn,West,2025-10-19,0,0.0
+L00979,Email Campaign,North,2025-12-02,0,0.0
+L00980,Website,East,2025-12-26,0,0.0
+L00981,Website,South,2025-02-06,0,0.0
+L00982,LinkedIn,South,2025-07-26,0,0.0
+L00983,Website,East,2025-08-16,0,0.0
+L00984,Trade Show,East,2025-01-29,0,0.0
+L00985,Website,East,2025-12-14,1,1129.99
+L00986,Cold Call,North,2025-02-07,0,0.0
+L00987,Website,East,2025-04-09,0,0.0
+L00988,Trade Show,South,2025-12-20,1,3038.1
+L00989,LinkedIn,South,2025-07-22,0,0.0
+L00990,Website,West,2025-09-05,0,0.0
+L00991,Website,North,2025-06-30,0,0.0
+L00992,Cold Call,South,2025-10-02,0,0.0
+L00993,Trade Show,South,2025-01-30,1,3516.3
+L00994,Trade Show,North,2025-09-04,0,0.0
+L00995,Referral,West,2025-01-25,1,2698.61
+L00996,LinkedIn,South,2025-03-07,0,0.0
+L00997,Website,East,2025-07-04,0,0.0
+L00998,LinkedIn,South,2025-06-13,1,2265.44
+L00999,Cold Call,West,2025-02-25,0,0.0
+L01000,Referral,East,2025-10-19,1,1912.77
+L01001,Cold Call,South,2025-04-21,0,0.0
+L01002,Email Campaign,West,2025-11-13,0,0.0
+L01003,Website,West,2025-01-06,0,0.0
+L01004,Website,East,2025-03-28,0,0.0
+L01005,Website,North,2025-04-19,0,0.0
+L01006,Website,East,2025-08-06,1,1522.43
+L01007,Website,East,2025-05-27,0,0.0
+L01008,Cold Call,South,2025-02-27,0,0.0
+L01009,Website,North,2025-07-28,0,0.0
+L01010,Cold Call,East,2025-12-16,0,0.0
+L01011,Email Campaign,West,2025-02-18,0,0.0
+L01012,Trade Show,South,2025-04-03,0,0.0
+L01013,Cold Call,South,2025-06-24,1,2353.7
+L01014,Website,North,2025-09-23,0,0.0
+L01015,Website,East,2025-02-19,0,0.0
+L01016,Website,West,2025-03-26,0,0.0
+L01017,Trade Show,West,2025-03-27,0,0.0
+L01018,Trade Show,South,2025-08-13,0,0.0
+L01019,LinkedIn,North,2025-01-31,0,0.0
+L01020,Referral,South,2025-08-29,0,0.0
+L01021,LinkedIn,West,2025-06-05,0,0.0
+L01022,Referral,North,2025-04-30,0,0.0
+L01023,Trade Show,North,2025-11-11,1,2278.17
+L01024,Website,West,2025-10-26,1,2164.69
+L01025,LinkedIn,East,2025-10-21,0,0.0
+L01026,LinkedIn,North,2025-11-20,0,0.0
+L01027,Website,North,2025-03-27,0,0.0
+L01028,LinkedIn,South,2025-11-09,0,0.0
+L01029,Email Campaign,East,2025-03-06,1,2119.84
+L01030,Website,West,2025-05-01,0,0.0
+L01031,Cold Call,West,2025-07-22,0,0.0
+L01032,LinkedIn,South,2025-09-29,0,0.0
+L01033,Website,South,2025-07-30,0,0.0
+L01034,Website,West,2025-07-24,0,0.0
+L01035,Referral,West,2025-05-18,0,0.0
+L01036,Website,North,2025-08-05,1,3925.07
+L01037,LinkedIn,East,2025-06-23,0,0.0
+L01038,Email Campaign,East,2025-06-24,0,0.0
+L01039,Cold Call,North,2025-08-02,0,0.0
+L01040,Trade Show,West,2025-08-08,0,0.0
+L01041,LinkedIn,South,2025-05-01,0,0.0
+L01042,Cold Call,East,2025-02-19,0,0.0
+L01043,Cold Call,South,2025-04-20,0,0.0
+L01044,Website,East,2025-05-30,0,0.0
+L01045,Referral,West,2025-02-28,1,2549.31
+L01046,LinkedIn,South,2025-03-06,0,0.0
+L01047,Email Campaign,South,2025-12-14,0,0.0
+L01048,LinkedIn,West,2025-04-13,0,0.0
+L01049,Website,West,2025-09-27,0,0.0
+L01050,Trade Show,West,2025-02-16,1,2523.59
+L01051,Website,West,2025-12-21,0,0.0
+L01052,Trade Show,East,2025-03-19,0,0.0
+L01053,Email Campaign,West,2025-05-24,0,0.0
+L01054,Email Campaign,West,2025-10-13,0,0.0
+L01055,Email Campaign,North,2025-03-15,0,0.0
+L01056,Website,East,2025-07-20,0,0.0
+L01057,Cold Call,North,2025-10-14,0,0.0
+L01058,Email Campaign,East,2025-01-09,0,0.0
+L01059,Cold Call,South,2025-01-10,0,0.0
+L01060,Referral,South,2025-10-15,0,0.0
+L01061,Website,West,2025-04-06,1,2722.38
+L01062,Referral,East,2025-11-28,0,0.0
+L01063,LinkedIn,East,2025-12-05,0,0.0
+L01064,Cold Call,West,2025-11-18,0,0.0
+L01065,Email Campaign,North,2025-12-30,0,0.0
+L01066,Email Campaign,East,2025-10-28,0,0.0
+L01067,Cold Call,North,2025-05-20,0,0.0
+L01068,Referral,North,2025-12-29,0,0.0
+L01069,LinkedIn,North,2025-05-07,1,1929.41
+L01070,Referral,East,2025-08-03,0,0.0
+L01071,Website,East,2025-01-03,1,1807.19
+L01072,Website,West,2025-12-18,0,0.0
+L01073,Referral,South,2025-08-05,0,0.0
+L01074,Referral,West,2025-12-13,0,0.0
+L01075,Cold Call,South,2025-05-09,0,0.0
+L01076,Website,North,2025-04-25,0,0.0
+L01077,Referral,North,2025-07-10,0,0.0
+L01078,Website,North,2025-11-12,0,0.0
+L01079,Cold Call,South,2025-07-20,0,0.0
+L01080,Cold Call,South,2025-10-17,0,0.0
+L01081,Referral,West,2025-03-20,0,0.0
+L01082,Website,North,2025-10-11,0,0.0
+L01083,Trade Show,South,2025-09-25,0,0.0
+L01084,Cold Call,West,2025-11-24,0,0.0
+L01085,Cold Call,North,2025-01-22,0,0.0
+L01086,LinkedIn,South,2025-05-21,0,0.0
+L01087,Email Campaign,North,2025-02-02,1,2104.68
+L01088,Email Campaign,East,2025-05-27,0,0.0
+L01089,LinkedIn,West,2025-10-04,0,0.0
+L01090,Cold Call,North,2025-08-22,0,0.0
+L01091,Website,South,2025-10-02,0,0.0
+L01092,Cold Call,South,2025-09-27,0,0.0
+L01093,LinkedIn,West,2025-12-29,1,2126.03
+L01094,Website,West,2025-11-18,0,0.0
+L01095,Trade Show,North,2025-08-02,1,2043.18
+L01096,Email Campaign,South,2025-11-16,0,0.0
+L01097,Referral,West,2025-01-18,1,1986.0
+L01098,Trade Show,North,2025-09-21,0,0.0
+L01099,Referral,West,2025-07-10,1,3121.98
+L01100,LinkedIn,North,2025-12-16,0,0.0
+L01101,Email Campaign,East,2025-07-03,0,0.0
+L01102,Referral,West,2025-03-07,0,0.0
+L01103,LinkedIn,East,2025-09-22,0,0.0
+L01104,Cold Call,West,2025-12-13,0,0.0
+L01105,Website,East,2025-01-06,0,0.0
+L01106,LinkedIn,North,2025-01-24,0,0.0
+L01107,Referral,East,2025-08-30,0,0.0
+L01108,Cold Call,East,2025-07-22,0,0.0
+L01109,Website,South,2025-07-20,0,0.0
+L01110,Website,North,2025-02-02,0,0.0
+L01111,Cold Call,East,2025-07-28,0,0.0
+L01112,Website,East,2025-07-27,1,2555.92
+L01113,LinkedIn,West,2025-11-06,1,2777.59
+L01114,Cold Call,North,2025-05-23,0,0.0
+L01115,Email Campaign,East,2025-05-07,0,0.0
+L01116,Website,West,2025-01-30,1,2609.64
+L01117,Email Campaign,West,2025-07-26,0,0.0
+L01118,Cold Call,West,2025-08-25,0,0.0
+L01119,Referral,North,2025-04-13,1,2431.29
+L01120,Email Campaign,North,2025-09-24,1,2304.32
+L01121,Cold Call,East,2025-12-09,0,0.0
+L01122,Cold Call,South,2025-03-05,0,0.0
+L01123,Cold Call,North,2025-07-29,0,0.0
+L01124,Cold Call,North,2025-09-11,0,0.0
+L01125,Trade Show,North,2025-01-07,1,3134.63
+L01126,Cold Call,South,2025-03-07,0,0.0
+L01127,Email Campaign,East,2025-05-25,0,0.0
+L01128,Cold Call,North,2025-02-20,0,0.0
+L01129,Email Campaign,North,2025-05-10,0,0.0
+L01130,Trade Show,South,2025-02-23,0,0.0
+L01131,Website,West,2025-11-24,0,0.0
+L01132,Website,West,2025-08-07,0,0.0
+L01133,Cold Call,South,2025-05-01,0,0.0
+L01134,LinkedIn,North,2025-10-12,0,0.0
+L01135,Cold Call,North,2025-01-07,0,0.0
+L01136,Email Campaign,West,2025-08-06,0,0.0
+L01137,Trade Show,South,2025-09-07,1,2832.31
+L01138,LinkedIn,North,2025-10-23,0,0.0
+L01139,Cold Call,West,2025-03-23,0,0.0
+L01140,Website,East,2025-08-04,0,0.0
+L01141,LinkedIn,South,2025-10-08,0,0.0
+L01142,Website,South,2025-10-19,1,2792.67
+L01143,LinkedIn,North,2025-03-06,0,0.0
+L01144,LinkedIn,West,2025-12-23,0,0.0
+L01145,Cold Call,West,2025-04-10,0,0.0
+L01146,Cold Call,North,2025-05-23,0,0.0
+L01147,LinkedIn,East,2025-03-12,0,0.0
+L01148,Website,North,2025-02-24,0,0.0
+L01149,Website,South,2025-04-04,1,2252.74
+L01150,Trade Show,East,2025-02-19,0,0.0
+L01151,Trade Show,North,2025-09-25,0,0.0
+L01152,Referral,East,2025-08-07,0,0.0
+L01153,Referral,North,2025-05-23,0,0.0
+L01154,LinkedIn,East,2025-07-19,0,0.0
+L01155,Cold Call,South,2025-08-09,0,0.0
+L01156,LinkedIn,North,2025-03-09,1,2976.44
+L01157,Website,West,2025-04-19,1,2783.15
+L01158,LinkedIn,South,2025-11-18,1,1124.62
+L01159,Referral,West,2025-01-05,0,0.0
+L01160,Referral,West,2025-12-16,1,3330.46
+L01161,Website,North,2025-12-18,0,0.0
+L01162,Cold Call,East,2025-04-03,0,0.0
+L01163,LinkedIn,South,2025-04-28,0,0.0
+L01164,Referral,East,2025-03-17,1,2064.55
+L01165,Cold Call,East,2025-07-24,0,0.0
+L01166,LinkedIn,South,2025-03-20,0,0.0
+L01167,Email Campaign,East,2025-10-16,1,3746.81
+L01168,Trade Show,South,2025-05-22,0,0.0
+L01169,Website,West,2025-12-20,1,2023.45
+L01170,Email Campaign,West,2025-11-08,0,0.0
+L01171,Cold Call,North,2025-05-27,0,0.0
+L01172,Cold Call,East,2025-08-06,0,0.0
+L01173,LinkedIn,West,2025-01-09,0,0.0
+L01174,Referral,North,2025-01-25,0,0.0
+L01175,Website,East,2025-07-04,0,0.0
+L01176,Trade Show,West,2025-06-22,0,0.0
+L01177,Cold Call,North,2025-05-26,0,0.0
+L01178,LinkedIn,East,2025-02-02,0,0.0
+L01179,LinkedIn,West,2025-11-03,0,0.0
+L01180,Website,South,2025-05-29,0,0.0
+L01181,Website,North,2025-06-21,0,0.0
+L01182,Cold Call,South,2025-05-28,0,0.0
+L01183,LinkedIn,South,2025-07-01,1,1756.31
+L01184,Email Campaign,East,2025-08-25,0,0.0
+L01185,Cold Call,South,2025-10-06,1,1840.3
+L01186,Cold Call,South,2025-07-20,0,0.0
+L01187,Email Campaign,West,2025-03-02,0,0.0
+L01188,Website,East,2025-11-16,0,0.0
+L01189,Cold Call,West,2025-04-14,0,0.0
+L01190,Cold Call,East,2025-01-06,1,2399.46
+L01191,Referral,West,2025-01-15,1,2805.55
+L01192,Website,North,2025-10-10,0,0.0
+L01193,Website,West,2025-05-22,0,0.0
+L01194,Website,West,2025-01-09,0,0.0
+L01195,LinkedIn,North,2025-10-24,0,0.0
+L01196,Website,South,2025-04-22,0,0.0
+L01197,Cold Call,South,2025-12-23,0,0.0
+L01198,Website,South,2025-11-18,0,0.0
+L01199,Website,West,2025-01-18,0,0.0
+L01200,Referral,East,2025-09-10,1,2024.96
+L01201,Website,North,2025-08-09,1,2767.75
+L01202,Trade Show,East,2025-03-04,0,0.0
+L01203,Referral,West,2025-05-06,0,0.0
+L01204,Website,South,2025-06-29,0,0.0
+L01205,Website,West,2025-02-23,0,0.0
+L01206,LinkedIn,East,2025-09-21,0,0.0
+L01207,Cold Call,West,2025-04-12,0,0.0
+L01208,Email Campaign,West,2025-12-09,0,0.0
+L01209,LinkedIn,North,2025-10-20,0,0.0
+L01210,Cold Call,West,2025-08-20,0,0.0
+L01211,LinkedIn,North,2025-02-13,0,0.0
+L01212,Email Campaign,West,2025-01-10,0,0.0
+L01213,Cold Call,West,2025-02-23,0,0.0
+L01214,Referral,South,2025-07-02,1,2429.84
+L01215,Cold Call,North,2025-10-13,0,0.0
+L01216,Email Campaign,South,2025-02-25,0,0.0
+L01217,LinkedIn,South,2025-09-16,0,0.0
+L01218,Trade Show,East,2025-01-18,0,0.0
+L01219,Email Campaign,North,2025-04-07,1,2441.32
+L01220,Website,North,2025-08-07,0,0.0
+L01221,Email Campaign,South,2025-10-30,1,2726.78
+L01222,Cold Call,West,2025-10-11,0,0.0
+L01223,LinkedIn,South,2025-07-14,0,0.0
+L01224,LinkedIn,South,2025-01-14,0,0.0
+L01225,Email Campaign,North,2025-04-18,0,0.0
+L01226,Cold Call,South,2025-10-14,0,0.0
+L01227,LinkedIn,South,2025-01-30,0,0.0
+L01228,Website,South,2025-09-15,0,0.0
+L01229,LinkedIn,South,2025-09-14,0,0.0
+L01230,Trade Show,South,2025-10-02,0,0.0
+L01231,Cold Call,East,2025-03-21,0,0.0
+L01232,Website,South,2025-03-31,0,0.0
+L01233,Email Campaign,West,2025-03-14,0,0.0
+L01234,Email Campaign,East,2025-05-24,0,0.0
+L01235,LinkedIn,East,2025-07-11,1,2750.78
+L01236,Website,East,2025-02-13,0,0.0
+L01237,Cold Call,West,2025-07-27,0,0.0
+L01238,Website,South,2025-03-29,0,0.0
+L01239,Referral,West,2025-07-25,0,0.0
+L01240,Cold Call,North,2025-04-21,0,0.0
+L01241,Trade Show,North,2025-12-15,0,0.0
+L01242,LinkedIn,West,2025-04-27,0,0.0
+L01243,Email Campaign,West,2025-11-15,0,0.0
+L01244,Trade Show,North,2025-03-05,0,0.0
+L01245,Website,East,2025-01-31,0,0.0
+L01246,Website,East,2025-03-10,0,0.0
+L01247,Cold Call,North,2025-06-03,0,0.0
+L01248,Email Campaign,East,2025-11-26,0,0.0
+L01249,LinkedIn,East,2025-03-06,0,0.0
+L01250,Cold Call,East,2025-10-14,0,0.0
+L01251,Cold Call,East,2025-09-12,1,1964.67
+L01252,Cold Call,West,2025-05-06,0,0.0
+L01253,Cold Call,North,2025-05-03,0,0.0
+L01254,Website,East,2025-12-12,0,0.0
+L01255,Website,South,2025-09-18,0,0.0
+L01256,Website,West,2025-03-29,0,0.0
+L01257,Trade Show,South,2025-11-29,1,3594.99
+L01258,Trade Show,West,2025-05-29,1,3105.69
+L01259,Email Campaign,East,2025-01-30,0,0.0
+L01260,Website,North,2025-10-24,0,0.0
+L01261,Cold Call,West,2025-11-14,0,0.0
+L01262,Website,North,2025-06-11,1,2697.43
+L01263,LinkedIn,South,2025-09-14,0,0.0
+L01264,Referral,South,2025-03-27,0,0.0
+L01265,Email Campaign,East,2025-11-07,0,0.0
+L01266,Website,South,2025-05-15,0,0.0
+L01267,Cold Call,East,2025-04-08,0,0.0
+L01268,Trade Show,East,2025-07-02,0,0.0
+L01269,Cold Call,North,2025-04-08,0,0.0
+L01270,Website,North,2025-08-15,0,0.0
+L01271,Trade Show,South,2025-09-30,0,0.0
+L01272,Cold Call,North,2025-05-29,0,0.0
+L01273,LinkedIn,West,2025-10-13,0,0.0
+L01274,Cold Call,South,2025-06-07,0,0.0
+L01275,Email Campaign,South,2025-12-21,0,0.0
+L01276,LinkedIn,East,2025-04-07,0,0.0
+L01277,LinkedIn,West,2025-09-15,0,0.0
+L01278,LinkedIn,East,2025-07-15,0,0.0
+L01279,Website,East,2025-12-11,0,0.0
+L01280,Email Campaign,West,2025-03-22,0,0.0
+L01281,Website,West,2025-03-13,0,0.0
+L01282,LinkedIn,North,2025-11-13,1,2842.09
+L01283,LinkedIn,North,2025-11-25,1,2613.18
+L01284,Referral,South,2025-09-30,0,0.0
+L01285,LinkedIn,West,2025-06-23,0,0.0
+L01286,Cold Call,West,2025-05-30,0,0.0
+L01287,Referral,East,2025-09-01,0,0.0
+L01288,Website,East,2025-09-30,0,0.0
+L01289,Email Campaign,North,2025-04-11,0,0.0
+L01290,Trade Show,East,2025-01-03,0,0.0
+L01291,LinkedIn,North,2025-01-27,0,0.0
+L01292,Referral,East,2025-05-06,0,0.0
+L01293,Website,North,2025-09-06,0,0.0
+L01294,Website,North,2025-06-10,0,0.0
+L01295,LinkedIn,West,2025-08-14,0,0.0
+L01296,Trade Show,West,2025-06-21,0,0.0
+L01297,Cold Call,East,2025-04-02,0,0.0
+L01298,Referral,East,2025-10-01,1,2763.15
+L01299,Trade Show,North,2025-09-22,0,0.0
+L01300,LinkedIn,East,2025-12-18,0,0.0
+L01301,Referral,East,2025-10-29,0,0.0
+L01302,LinkedIn,East,2025-05-19,0,0.0
+L01303,Website,South,2025-09-15,0,0.0
+L01304,Email Campaign,South,2025-05-08,0,0.0
+L01305,LinkedIn,West,2025-11-15,0,0.0
+L01306,Cold Call,South,2025-08-11,1,4990.74
+L01307,LinkedIn,West,2025-11-01,0,0.0
+L01308,Trade Show,West,2025-04-13,0,0.0
+L01309,Cold Call,West,2025-01-06,0,0.0
+L01310,LinkedIn,East,2025-02-21,0,0.0
+L01311,Website,North,2025-07-13,0,0.0
+L01312,Trade Show,North,2025-12-17,0,0.0
+L01313,LinkedIn,East,2025-08-17,0,0.0
+L01314,Referral,South,2025-10-23,0,0.0
+L01315,Email Campaign,North,2025-06-21,1,3085.43
+L01316,Website,West,2025-12-16,0,0.0
+L01317,Referral,West,2025-12-10,0,0.0
+L01318,LinkedIn,South,2025-03-21,0,0.0
+L01319,Referral,East,2025-11-11,0,0.0
+L01320,LinkedIn,South,2025-01-07,0,0.0
+L01321,Referral,South,2025-08-05,0,0.0
+L01322,Website,East,2025-06-09,0,0.0
+L01323,Website,South,2025-04-20,0,0.0
+L01324,Website,West,2025-12-07,0,0.0
+L01325,Trade Show,North,2025-08-30,0,0.0
+L01326,Cold Call,East,2025-02-20,0,0.0
+L01327,LinkedIn,West,2025-02-20,0,0.0
+L01328,LinkedIn,West,2025-02-12,0,0.0
+L01329,Cold Call,North,2025-04-21,0,0.0
+L01330,Website,North,2025-01-26,0,0.0
+L01331,Referral,East,2025-04-07,0,0.0
+L01332,Cold Call,West,2025-10-07,0,0.0
+L01333,LinkedIn,West,2025-11-15,0,0.0
+L01334,Email Campaign,West,2025-10-14,0,0.0
+L01335,Email Campaign,North,2025-07-01,0,0.0
+L01336,Email Campaign,East,2025-09-11,0,0.0
+L01337,Website,East,2025-12-11,1,2548.82
+L01338,Website,East,2025-01-20,0,0.0
+L01339,Website,West,2025-11-27,0,0.0
+L01340,Email Campaign,North,2025-09-22,0,0.0
+L01341,Trade Show,South,2025-05-22,0,0.0
+L01342,Trade Show,South,2025-06-13,0,0.0
+L01343,Referral,West,2025-06-10,1,2319.56
+L01344,Email Campaign,North,2025-02-27,1,2364.95
+L01345,LinkedIn,South,2025-03-26,1,1806.09
+L01346,Email Campaign,North,2025-04-18,0,0.0
+L01347,LinkedIn,North,2025-01-03,0,0.0
+L01348,Website,West,2025-07-02,0,0.0
+L01349,Website,West,2025-06-23,0,0.0
+L01350,Trade Show,South,2025-05-01,0,0.0
+L01351,LinkedIn,East,2025-03-06,0,0.0
+L01352,LinkedIn,East,2025-12-20,1,3005.27
+L01353,LinkedIn,West,2025-09-05,0,0.0
+L01354,LinkedIn,South,2025-06-23,0,0.0
+L01355,Trade Show,West,2025-09-21,1,2929.42
+L01356,Website,South,2025-05-16,0,0.0
+L01357,Website,East,2025-03-20,0,0.0
+L01358,Email Campaign,South,2025-09-03,0,0.0
+L01359,LinkedIn,East,2025-10-09,0,0.0
+L01360,Website,South,2025-08-26,0,0.0
+L01361,Website,West,2025-07-26,1,1867.93
+L01362,Website,East,2025-01-01,0,0.0
+L01363,Referral,South,2025-08-21,0,0.0
+L01364,Website,West,2025-08-14,0,0.0
+L01365,Website,East,2025-05-31,0,0.0
+L01366,Cold Call,South,2025-03-30,0,0.0
+L01367,Email Campaign,North,2025-12-24,0,0.0
+L01368,Email Campaign,West,2025-05-17,0,0.0
+L01369,LinkedIn,West,2025-04-10,1,2253.14
+L01370,Referral,East,2025-09-15,0,0.0
+L01371,Trade Show,West,2025-06-25,0,0.0
+L01372,Email Campaign,East,2025-07-23,0,0.0
+L01373,LinkedIn,North,2025-08-25,0,0.0
+L01374,Referral,North,2025-05-15,1,2621.17
+L01375,Referral,North,2025-02-25,0,0.0
+L01376,LinkedIn,North,2025-03-03,0,0.0
+L01377,LinkedIn,East,2025-12-09,0,0.0
+L01378,Website,West,2025-07-04,0,0.0
+L01379,Trade Show,North,2025-06-02,0,0.0
+L01380,Cold Call,East,2025-04-27,0,0.0
+L01381,Cold Call,North,2025-09-21,0,0.0
+L01382,Website,South,2025-11-30,0,0.0
+L01383,Email Campaign,West,2025-10-08,0,0.0
+L01384,Cold Call,West,2025-07-15,1,2318.0
+L01385,Website,West,2025-06-23,1,3144.38
+L01386,Cold Call,South,2025-11-13,0,0.0
+L01387,Cold Call,West,2025-11-09,0,0.0
+L01388,Email Campaign,West,2025-05-23,0,0.0
+L01389,Website,South,2025-12-18,0,0.0
+L01390,Email Campaign,South,2025-10-30,1,3344.5
+L01391,LinkedIn,North,2025-11-05,1,2418.01
+L01392,Website,West,2025-01-21,0,0.0
+L01393,Website,North,2025-02-17,1,2528.03
+L01394,Website,South,2025-04-19,0,0.0
+L01395,Referral,South,2025-10-05,0,0.0
+L01396,LinkedIn,North,2025-01-29,0,0.0
+L01397,Cold Call,West,2025-01-31,0,0.0
+L01398,Website,East,2025-01-12,0,0.0
+L01399,Trade Show,North,2025-03-12,1,1737.31
+L01400,Website,North,2025-12-02,0,0.0
+L01401,Cold Call,North,2025-09-21,0,0.0
+L01402,Trade Show,West,2025-09-19,0,0.0
+L01403,Email Campaign,South,2025-04-17,1,2162.14
+L01404,Cold Call,East,2025-08-17,0,0.0
+L01405,Cold Call,North,2025-10-12,0,0.0
+L01406,Website,North,2025-07-14,0,0.0
+L01407,Website,East,2025-11-09,0,0.0
+L01408,LinkedIn,North,2025-07-27,0,0.0
+L01409,Website,East,2025-04-29,0,0.0
+L01410,LinkedIn,West,2025-08-22,0,0.0
+L01411,Website,South,2025-12-11,0,0.0
+L01412,Trade Show,East,2025-10-29,0,0.0
+L01413,Email Campaign,West,2025-07-01,0,0.0
+L01414,Email Campaign,West,2025-08-06,0,0.0
+L01415,Cold Call,North,2025-12-23,0,0.0
+L01416,Website,North,2025-10-01,0,0.0
+L01417,Website,West,2025-07-03,0,0.0
+L01418,Cold Call,West,2025-04-13,1,3472.46
+L01419,Cold Call,South,2025-11-27,0,0.0
+L01420,LinkedIn,East,2025-12-23,1,2911.84
+L01421,LinkedIn,East,2025-01-26,1,2814.54
+L01422,LinkedIn,East,2025-01-12,0,0.0
+L01423,Website,West,2025-02-12,0,0.0
+L01424,Referral,South,2025-05-22,0,0.0
+L01425,LinkedIn,West,2025-02-28,0,0.0
+L01426,Cold Call,North,2025-11-18,0,0.0
+L01427,Trade Show,North,2025-11-30,0,0.0
+L01428,LinkedIn,West,2025-03-07,0,0.0
+L01429,Cold Call,North,2025-10-30,0,0.0
+L01430,Email Campaign,West,2025-02-21,0,0.0
+L01431,Website,South,2025-10-15,0,0.0
+L01432,Cold Call,South,2025-05-14,0,0.0
+L01433,LinkedIn,North,2025-01-15,0,0.0
+L01434,Cold Call,West,2025-06-06,0,0.0
+L01435,Website,South,2025-10-28,1,1349.97
+L01436,Trade Show,North,2025-12-07,0,0.0
+L01437,Trade Show,South,2025-02-14,0,0.0
+L01438,Website,North,2025-11-02,0,0.0
+L01439,Website,West,2025-04-18,0,0.0
+L01440,Website,North,2025-06-19,0,0.0
+L01441,Email Campaign,South,2025-02-09,0,0.0
+L01442,Cold Call,South,2025-12-22,0,0.0
+L01443,Website,North,2025-10-16,0,0.0
+L01444,Email Campaign,North,2025-08-23,0,0.0
+L01445,LinkedIn,East,2025-09-23,0,0.0
+L01446,LinkedIn,South,2025-11-15,0,0.0
+L01447,LinkedIn,North,2025-02-22,0,0.0
+L01448,LinkedIn,North,2025-03-31,1,2357.51
+L01449,LinkedIn,West,2025-01-14,0,0.0
+L01450,Referral,East,2025-06-28,0,0.0
+L01451,LinkedIn,East,2025-06-30,0,0.0
+L01452,Trade Show,West,2025-01-11,0,0.0
+L01453,LinkedIn,North,2025-08-30,0,0.0
+L01454,Trade Show,East,2025-01-04,1,3152.8
+L01455,Cold Call,West,2025-10-17,0,0.0
+L01456,Email Campaign,North,2025-09-15,0,0.0
+L01457,Referral,East,2025-10-25,1,3442.15
+L01458,Email Campaign,West,2025-02-13,0,0.0
+L01459,Referral,East,2025-11-14,1,2586.39
+L01460,Website,North,2025-07-19,1,2710.2
+L01461,Website,East,2025-11-12,0,0.0
+L01462,Website,West,2025-09-12,0,0.0
+L01463,Trade Show,North,2025-08-28,0,0.0
+L01464,Trade Show,East,2025-01-12,0,0.0
+L01465,Email Campaign,East,2025-09-10,0,0.0
+L01466,Website,South,2025-06-13,0,0.0
+L01467,Email Campaign,North,2025-11-06,0,0.0
+L01468,Cold Call,North,2025-09-07,0,0.0
+L01469,Referral,West,2025-01-28,1,2609.83
+L01470,LinkedIn,West,2025-11-21,0,0.0
+L01471,Cold Call,South,2025-01-23,0,0.0
+L01472,Website,West,2025-04-20,0,0.0
+L01473,LinkedIn,West,2025-03-21,0,0.0
+L01474,Cold Call,East,2025-12-22,1,1782.14
+L01475,Website,East,2025-02-25,1,2393.0
+L01476,LinkedIn,West,2025-11-05,0,0.0
+L01477,LinkedIn,East,2025-03-23,0,0.0
+L01478,Cold Call,West,2025-08-26,0,0.0
+L01479,Trade Show,West,2025-02-02,0,0.0
+L01480,Email Campaign,North,2025-05-24,1,1906.79
+L01481,Cold Call,East,2025-08-16,1,2106.15
+L01482,Cold Call,East,2025-09-17,0,0.0
+L01483,Cold Call,West,2025-11-15,0,0.0
+L01484,LinkedIn,South,2025-10-25,0,0.0
+L01485,Website,West,2025-07-09,1,2028.97
+L01486,Cold Call,South,2025-04-21,0,0.0
+L01487,Cold Call,South,2025-04-06,0,0.0
+L01488,LinkedIn,North,2025-12-29,0,0.0
+L01489,Email Campaign,South,2025-08-11,1,2133.04
+L01490,Cold Call,West,2025-11-28,0,0.0
+L01491,LinkedIn,East,2025-06-08,0,0.0
+L01492,Website,East,2025-06-27,0,0.0
+L01493,Website,West,2025-10-29,0,0.0
+L01494,LinkedIn,South,2025-09-21,0,0.0
+L01495,LinkedIn,East,2025-03-15,1,2532.89
+L01496,Website,South,2025-07-11,0,0.0
+L01497,Website,West,2025-03-19,0,0.0
+L01498,Website,South,2025-10-05,0,0.0
+L01499,Email Campaign,West,2025-01-11,0,0.0
+L01500,Email Campaign,East,2025-10-29,0,0.0

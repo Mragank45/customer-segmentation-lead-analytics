@@ -1,0 +1,4 @@
+segment,customers,avg_recency_days,avg_orders,avg_spend,total_revenue,revenue_share_pct
+Champions (high value),106,34.6,17.5,52629.1,5578689.8,76.9
+Potential (occasional),231,122.4,4.7,5854.2,1352316.8,18.6
+At Risk (inactive),163,281.0,2.1,1964.9,320283.2,4.4

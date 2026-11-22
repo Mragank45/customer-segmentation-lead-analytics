@@ -45,6 +45,7 @@ Sales and marketing effort was spread evenly across all customers and leads. The
 - Referrals convert about 3x better than cold calls, so shifting effort toward referrals and trade shows would raise conversion.
 
 Charts are saved in `outputs/` (`segments.png`, `lead_conversion_by_source.png`).
+![Segments](outputs/segments.png)
 
 ## Project structure
 
